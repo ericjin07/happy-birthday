@@ -49,7 +49,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2.4rem;
   font-weight: lighter;
 }
 
@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 40%;
   height: auto;
 }
 
